@@ -1,5 +1,3 @@
- 
-asf
-asf
-as
-f
+echo "Hi Git";
+echo "Hi Git2";
+echo "branch master";
