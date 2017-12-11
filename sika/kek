@@ -1,4 +1,10 @@
+HEAD
  
 asf
 asf
 as
+
+echo "Hi Git";
+echo "Hi Git2";
+echo "branch master";
+master
